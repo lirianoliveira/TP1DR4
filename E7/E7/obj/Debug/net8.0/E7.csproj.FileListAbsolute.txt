@@ -1,0 +1,14 @@
+C:\Users\Lirian Oliveira\source\repos\E7\E7\bin\Debug\net8.0\E7.exe
+C:\Users\Lirian Oliveira\source\repos\E7\E7\bin\Debug\net8.0\E7.deps.json
+C:\Users\Lirian Oliveira\source\repos\E7\E7\bin\Debug\net8.0\E7.runtimeconfig.json
+C:\Users\Lirian Oliveira\source\repos\E7\E7\bin\Debug\net8.0\E7.dll
+C:\Users\Lirian Oliveira\source\repos\E7\E7\bin\Debug\net8.0\E7.pdb
+C:\Users\Lirian Oliveira\source\repos\E7\E7\obj\Debug\net8.0\E7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lirian Oliveira\source\repos\E7\E7\obj\Debug\net8.0\E7.AssemblyInfoInputs.cache
+C:\Users\Lirian Oliveira\source\repos\E7\E7\obj\Debug\net8.0\E7.AssemblyInfo.cs
+C:\Users\Lirian Oliveira\source\repos\E7\E7\obj\Debug\net8.0\E7.csproj.CoreCompileInputs.cache
+C:\Users\Lirian Oliveira\source\repos\E7\E7\obj\Debug\net8.0\E7.dll
+C:\Users\Lirian Oliveira\source\repos\E7\E7\obj\Debug\net8.0\refint\E7.dll
+C:\Users\Lirian Oliveira\source\repos\E7\E7\obj\Debug\net8.0\E7.pdb
+C:\Users\Lirian Oliveira\source\repos\E7\E7\obj\Debug\net8.0\E7.genruntimeconfig.cache
+C:\Users\Lirian Oliveira\source\repos\E7\E7\obj\Debug\net8.0\ref\E7.dll
