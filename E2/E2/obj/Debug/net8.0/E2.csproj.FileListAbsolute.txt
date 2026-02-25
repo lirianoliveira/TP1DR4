@@ -1,0 +1,14 @@
+C:\Users\Lirian Oliveira\source\repos\E2\E2\bin\Debug\net8.0\E2.exe
+C:\Users\Lirian Oliveira\source\repos\E2\E2\bin\Debug\net8.0\E2.deps.json
+C:\Users\Lirian Oliveira\source\repos\E2\E2\bin\Debug\net8.0\E2.runtimeconfig.json
+C:\Users\Lirian Oliveira\source\repos\E2\E2\bin\Debug\net8.0\E2.dll
+C:\Users\Lirian Oliveira\source\repos\E2\E2\bin\Debug\net8.0\E2.pdb
+C:\Users\Lirian Oliveira\source\repos\E2\E2\obj\Debug\net8.0\E2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lirian Oliveira\source\repos\E2\E2\obj\Debug\net8.0\E2.AssemblyInfoInputs.cache
+C:\Users\Lirian Oliveira\source\repos\E2\E2\obj\Debug\net8.0\E2.AssemblyInfo.cs
+C:\Users\Lirian Oliveira\source\repos\E2\E2\obj\Debug\net8.0\E2.csproj.CoreCompileInputs.cache
+C:\Users\Lirian Oliveira\source\repos\E2\E2\obj\Debug\net8.0\E2.dll
+C:\Users\Lirian Oliveira\source\repos\E2\E2\obj\Debug\net8.0\refint\E2.dll
+C:\Users\Lirian Oliveira\source\repos\E2\E2\obj\Debug\net8.0\E2.pdb
+C:\Users\Lirian Oliveira\source\repos\E2\E2\obj\Debug\net8.0\E2.genruntimeconfig.cache
+C:\Users\Lirian Oliveira\source\repos\E2\E2\obj\Debug\net8.0\ref\E2.dll
