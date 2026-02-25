@@ -1,0 +1,14 @@
+C:\Users\Lirian Oliveira\source\repos\E11\E11\bin\Debug\net8.0\E11.exe
+C:\Users\Lirian Oliveira\source\repos\E11\E11\bin\Debug\net8.0\E11.deps.json
+C:\Users\Lirian Oliveira\source\repos\E11\E11\bin\Debug\net8.0\E11.runtimeconfig.json
+C:\Users\Lirian Oliveira\source\repos\E11\E11\bin\Debug\net8.0\E11.dll
+C:\Users\Lirian Oliveira\source\repos\E11\E11\bin\Debug\net8.0\E11.pdb
+C:\Users\Lirian Oliveira\source\repos\E11\E11\obj\Debug\net8.0\E11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lirian Oliveira\source\repos\E11\E11\obj\Debug\net8.0\E11.AssemblyInfoInputs.cache
+C:\Users\Lirian Oliveira\source\repos\E11\E11\obj\Debug\net8.0\E11.AssemblyInfo.cs
+C:\Users\Lirian Oliveira\source\repos\E11\E11\obj\Debug\net8.0\E11.csproj.CoreCompileInputs.cache
+C:\Users\Lirian Oliveira\source\repos\E11\E11\obj\Debug\net8.0\E11.dll
+C:\Users\Lirian Oliveira\source\repos\E11\E11\obj\Debug\net8.0\refint\E11.dll
+C:\Users\Lirian Oliveira\source\repos\E11\E11\obj\Debug\net8.0\E11.pdb
+C:\Users\Lirian Oliveira\source\repos\E11\E11\obj\Debug\net8.0\E11.genruntimeconfig.cache
+C:\Users\Lirian Oliveira\source\repos\E11\E11\obj\Debug\net8.0\ref\E11.dll

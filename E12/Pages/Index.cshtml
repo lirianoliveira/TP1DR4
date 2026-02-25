@@ -1,0 +1,13 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+ <h2>Cadastrar Evento</h2>
+
+ <form method="post">
+     Titulo: <input asp-for="NovoE.Titulo"/><br/>
+     Data: <input asp-for="NovoE.Date" type="date" /> <br />
+    Local: <input asp-for="NovoE.Local"  /> <br />
+    <button type="submit">Cadastrar Evento</button>
+ </form>
