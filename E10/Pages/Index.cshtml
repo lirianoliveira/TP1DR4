@@ -1,0 +1,24 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<form method= "post">
+    <input asp-for = "nome" />
+    <input asp-for = "preco"/>
+    <button type="submit"> Cadastrar</button>
+
+</form>
+
+@if (Model.Enviar)
+{
+    <p>Produto @Model.nome cadastrado!</p>
+}
+
+<ul>
+    @foreach (var item in IndexModel.ListaProdutos)
+    {
+        <li> @item.nome - @item.preco.ToString("C")</li>
+    }
+</ul>
